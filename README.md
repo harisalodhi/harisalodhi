@@ -10,6 +10,7 @@
 ---
 ## Projects
 
+- Basic Security Champions site on the human element of cybersecurity
 
 ## Certifications
 
